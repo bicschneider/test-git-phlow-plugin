@@ -26,3 +26,4 @@ pipeline{
     }
   }
 }
+println "test-07-change-Jenkinsfile"
